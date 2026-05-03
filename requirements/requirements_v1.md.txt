@@ -5,4 +5,4 @@
 - Emergency vehicle override
 - Signal timers within safe bounds
 - Event logging enabled
-- Traffic density based timing
+- Traffic density based timings
