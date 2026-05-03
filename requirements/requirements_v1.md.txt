@@ -1,0 +1,7 @@
+# Smart Traffic Signal Control System
+
+## Requirements
+- No conflicting green signals
+- Emergency vehicle override
+- Signal timers within safe bounds
+- Event logging enabled
